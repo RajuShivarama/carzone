@@ -5,7 +5,7 @@ CarZone is an car enquiry website aiming to serve the people on Internet.
 #### Live Demo: https://carzoneap.herokuapp.com/
 
 #### Project Requirements
-- the entire member screen data is controlled by an admin panel.
+- The entire member screen data is controlled by an admin panel.
 - User should be able to register, login and logout.
 - User should be delivered email after ordering and payment.
 - User should be able search the cars with different categories.
@@ -25,7 +25,7 @@ CarZone is an car enquiry website aiming to serve the people on Internet.
 
   Front End:- HTML, CSS, Bootstrap-4, Jquery.
   
-  Back End:- Django, Paypal API.
+  Back End:- Django.
   
   Database:- PostgreSQL
   
